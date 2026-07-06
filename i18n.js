@@ -88,7 +88,8 @@
                 bioBruno: "Software Engineering student at UPC. C++, HTML, CSS, and JavaScript. Data flow and persistence.",
                 namePlaceholder: "Nombre Apellido",
                 roleMember: "QA & testing-oriented",
-                bioMember: "Software Engineering student at UPC. C++ and exploratory testing. Reviewed forms, footer, external links and pre-deploy checks for TechWatch."
+                bioMember: "Software Engineering student at UPC. C++ and exploratory testing. Reviewed forms, footer, external links and pre-deploy checks for TechWatch.",
+                videoLead: "See how we built TechWatch and what drives the team."
             },
             pricing: {
                 eyebrow: "Plans",
@@ -279,7 +280,8 @@
                 bioBruno: "Estudiante de Ingeniería de Software en la UPC. C++, HTML, CSS y JavaScript. Flujo de datos y persistencia.",
                 namePlaceholder: "Nombre Apellido",
                 roleMember: "QA y pruebas",
-                bioMember: "Estudiante de Ingeniería de Software en la UPC. C++ y pruebas exploratorias. Revisó formularios, footer, enlaces externos y verificación previa al despliegue de TechWatch."
+                bioMember: "Estudiante de Ingeniería de Software en la UPC. C++ y pruebas exploratorias. Revisó formularios, footer, enlaces externos y verificación previa al despliegue de TechWatch.",
+                videoLead: "Mira cómo construimos TechWatch y qué impulsa al equipo."
             },
             pricing: {
                 eyebrow: "Planes",
